@@ -1,6 +1,6 @@
 Tippi somehow can't merge this into main on Github, is confused.
 
-#[Dear DaDeucers](https://docs.google.com/document/d/1OJNVmo3vpxEv43nrmruFsBO1XpqB4xcr5mV-Sh0-ty8/edit?usp=sharing)
+# Click [Dear DaDeucers](https://docs.google.com/document/d/1OJNVmo3vpxEv43nrmruFsBO1XpqB4xcr5mV-Sh0-ty8/edit?usp=sharing)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
